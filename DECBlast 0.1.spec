@@ -3,8 +3,8 @@
 block_cipher = None
 
 
-a = Analysis(['C:\\Users\\115schoolkid4\\Desktop\\DECBlast-0.1-main\\1.py'],
-             pathex=['C:\\Users\\115schoolkid4\\Desktop\\DECBlast-0.1-main'],
+a = Analysis(['None'],
+             pathex=['None'],
              binaries=[],
              datas=[],
              hiddenimports=[],
